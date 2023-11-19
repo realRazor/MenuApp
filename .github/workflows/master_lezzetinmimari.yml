@@ -54,4 +54,4 @@ jobs:
           app-name: 'lezzetinmimari'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE90DC3F12C345259835CDC22656B8A2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CFEF71B0A2A749DE80928D8BAB85BEFC }}
